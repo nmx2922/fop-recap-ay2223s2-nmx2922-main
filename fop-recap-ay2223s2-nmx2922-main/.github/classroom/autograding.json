@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Basic Q1",
+      "setup": "npm install",
+      "run": "npm run basic-Q1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Basic Q2",
+      "setup": "npm install",
+      "run": "npm run basic-Q2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Basic Q3",
+      "setup": "npm install",
+      "run": "npm run basic-Q3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Basic Q4",
+      "setup": "npm install",
+      "run": "npm run basic-Q4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Basic Q5",
+      "setup": "npm install",
+      "run": "npm run basic-Q5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Advance Q1 &#38;&#35;45&#59; Rotation",
+      "setup": "npm install",
+      "run": "npm run advance-Q1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Advance Q2 &#38;&#35;45&#59; Rotation 2D",
+      "setup": "npm install",
+      "run": "npm run advance-Q2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Advance Q3 &#38;&#35;45&#59; Cheapest Route",
+      "setup": "npm install",
+      "run": "npm run advance-Q3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "jest": "^28.1.3"
+    },
+    "scripts": {
+        "test": "jest",
+        "basic-Q1": "jest ./tests/basic/q1.test.js",
+        "basic-Q2": "jest ./tests/basic/q2.test.js",
+        "basic-Q3": "jest ./tests/basic/q3.test.js",
+        "basic-Q4": "jest ./tests/basic/q4.test.js",
+        "basic-Q5": "jest ./tests/basic/q5.test.js",
+        "advance-Q1": "jest ./tests/advance/rotation.test.js",
+        "advance-Q2": "jest ./tests/advance/rotation-2d.test.js",
+        "advance-Q3": "jest ./tests/advance/cheapest-route.test.js"
+    }
+}
